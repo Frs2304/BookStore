@@ -19,5 +19,3 @@ BookStore is built using the following technologies:
     Express.js, a web framework for Node.js that handles HTTP requests and responses.
     React.js, a JavaScript library for building user interfaces.
     Node.js, a JavaScript runtime for server-side programming.
-    Stripe, a payment processing platform for handling credit card transactions.
-    PayPal, a payment gateway for processing PayPal transactions.
