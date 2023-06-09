@@ -10,6 +10,14 @@ The app is built using the MERN stack (MongoDB, Express.js, React.js, Node.js).<
     View book details, including cover image, description, author, rating, and price.
     Add books to the shopping cart and proceed to checkout.
     Manage the shopping cart, including adding, removing, and updating items.
+    
+## Installation
+
+    Clone the repository: git clone https://github.com/Frs2304/BookStore.git
+    Install dependencies: npm install
+    Start the client: npm run dev
+    Start the server: npm start
+    Open the app in your browser at http://localhost:5173
 
 ## Technologies
 
