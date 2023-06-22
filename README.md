@@ -1,6 +1,6 @@
 # CoinSense
 
-This is a cryptocurrency tracker app built with React.js and integrated with the CoinCap API. It allows users to view real-time information and statistics about various cryptocurrencies.
+CoinSense is a cryptocurrency tracker app built with React.js and integrated with the CoinCap API. It allows users to view real-time information and statistics about various cryptocurrencies.
 
 ## Features
 
