@@ -23,7 +23,6 @@ This is a cryptocurrency tracker app built with React.js and integrated with the
 ## Usage
 
     Obtain an API key from the CoinCap website: https://coincap.io/.
-
     Create a .env file in the project root directory and add the following line,
     replacing [YOUR_API_KEY] with your actual API key: REACT_APP_COINCAP_API_KEY=[YOUR_API_KEY]
     Start the development server: npm start
